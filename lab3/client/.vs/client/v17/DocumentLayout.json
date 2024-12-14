@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Alex1\\source\\repos\\client\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5B60E9C2-3678-4F5A-8CEE-82D095DA6FAE}|client\\client.vcxproj|C:\\Users\\Alex1\\source\\repos\\client\\client\\client.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5B60E9C2-3678-4F5A-8CEE-82D095DA6FAE}|client\\client.vcxproj|solutionrelative:client\\client.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "client.cpp",
+              "DocumentMoniker": "C:\\Users\\Alex1\\source\\repos\\client\\client\\client.cpp",
+              "RelativeDocumentMoniker": "client\\client.cpp",
+              "ToolTip": "C:\\Users\\Alex1\\source\\repos\\client\\client\\client.cpp",
+              "RelativeToolTip": "client\\client.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-20T15:01:33.69Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

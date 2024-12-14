@@ -1,0 +1,4 @@
+﻿  server.cpp
+C:\Users\Alex1\source\repos\server\server\server.cpp(15,20): error C4996: 'ctime': This function or variable may be unsafe. Consider using ctime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Alex1\source\repos\server\server\server.cpp(34,9): warning C4129: "p": нераспознанная escape-последовательность символов
+C:\Users\Alex1\source\repos\server\server\server.cpp(34,9): warning C4129: "L": нераспознанная escape-последовательность символов
